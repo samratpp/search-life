@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e744e3da.css",
+    "main.js": "./static/js/main.bcbc105a.js",
+    "static/media/watch.png": "./static/media/watch.829ac5d37d04f7c15e88.png",
+    "static/media/star.png": "./static/media/star.7011b51b53732a2d1686.png",
+    "static/media/fork.png": "./static/media/fork.c30e80740820a8ffb163.png",
+    "index.html": "./index.html",
+    "main.e744e3da.css.map": "./static/css/main.e744e3da.css.map",
+    "main.bcbc105a.js.map": "./static/js/main.bcbc105a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e744e3da.css",
+    "static/js/main.bcbc105a.js"
+  ]
+}
